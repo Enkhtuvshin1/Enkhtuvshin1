@@ -14,14 +14,14 @@
 <h2 align="center">🔥 Language & Coding Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enkhtuvshin1&layout=compact&theme=radical&hide_border=true&langs_count=14&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Enkhtuvshin1&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <h2 align="center">📌 Pinned Repositories</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Must-gang&repo=legalidea-FE&theme=radical&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enkhtuvshin1&repo=MnCashmere&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Must-gang&repo=legalidea-FE&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Enkhtuvshin1&repo=MnCashmere&theme=radical&hide_border=true" />
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
