@@ -13,7 +13,7 @@
 
 <h2 align="center">🔥 Language & Coding Activity</h2>
 
-<div width="100%" align="center">
+<div align="center">
   <a href="https://github.com/Enkhtuvshin1">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Enkhtuvshin1&layout=compact&theme=radical&hide_border=true&langs_count=14" />
@@ -25,8 +25,8 @@
 
 <h2 align="center">📌 Pinned Repositories</h2>
 
-<div width="100%" align="center">
- <a href="https://github.com/Must-gang/legalidea-FE">
+<div align="center">
+  <a href="https://github.com/Must-gang/legalidea-FE">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Must-gang&repo=legalidea-FE&theme=radical&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Must-gang&repo=legalidea-FE" />
