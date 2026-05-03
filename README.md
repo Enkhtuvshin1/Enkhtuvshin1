@@ -14,32 +14,14 @@
 <h2 align="center">🔥 Language & Coding Activity</h2>
 
 <div align="center">
-  <a href="https://github.com/Enkhtuvshin1">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Enkhtuvshin1&layout=compact&theme=radical&hide_border=true&langs_count=14" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Enkhtuvshin1&layout=compact&langs_count=14" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enkhtuvshin1&layout=compact&theme=radical&hide_border=true&langs_count=14" />
-    </picture>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enkhtuvshin1&layout=compact&theme=radical&hide_border=true&langs_count=14&cache_seconds=1800" />
 </div>
 
 <h2 align="center">📌 Pinned Repositories</h2>
 
 <div align="center">
-  <a href="https://github.com/Must-gang/legalidea-FE">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Must-gang&repo=legalidea-FE&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Must-gang&repo=legalidea-FE" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Must-gang&repo=legalidea-FE&theme=radical&hide_border=true" />
-    </picture>
-  </a>
-  <a href="https://github.com/Enkhtuvshin1/MnCashmere">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Enkhtuvshin1&repo=MnCashmere&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Enkhtuvshin1&repo=MnCashmere" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Enkhtuvshin1&repo=MnCashmere&theme=radical&hide_border=true" />
-    </picture>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Must-gang&repo=legalidea-FE&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enkhtuvshin1&repo=MnCashmere&theme=radical&hide_border=true&cache_seconds=1800" />
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -57,3 +39,4 @@
     <img height="20" src="https://komarev.com/ghpvc/?username=Enkhtuvshin1&color=blue" />
   </a>
 </div>
+
