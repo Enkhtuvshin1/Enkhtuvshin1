@@ -1,5 +1,3 @@
-<img align="right" width="30%" src="Assets/Programming.gif">
-
 ### Hi there 👋
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A5A5&center=false&vCenter=true&width=435&lines=I'm+Enkhtuvshin;I'm+Ban" alt="Typing SVG" />
